@@ -1,9 +1,10 @@
 ### Hi there 👋
+[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/profile.php?id=100016279240376)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=pink&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/ljh_04_5_13/)
+
 ![limjh0513's GitHub stats](https://github-readme-stats.vercel.app/api?username=limjh0513&show_icons=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjh0513&layout=compact)
 
-[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/profile.php?id=100016279240376)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=pink&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/ljh_04_5_13/)
 
 <!--
 **limjh0513/limjh0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
