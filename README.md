@@ -3,11 +3,7 @@
 [![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/profile.php?id=100016279240376)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=pink&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/ljh_04_5_13/)
 
-<br/>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimjh0513&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br/>
 
 <!--
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
@@ -68,8 +64,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 </div>
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
