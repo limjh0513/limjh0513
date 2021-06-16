@@ -49,6 +49,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <div align=center>
 
+<!--
 # Tools🎨
 
 <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
@@ -61,7 +62,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-
+-->
 </div>
 
 <br/>
