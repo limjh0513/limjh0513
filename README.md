@@ -55,14 +55,14 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 # Tools🎨
 
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Illustratorn-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Adobe Illustratorn-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
