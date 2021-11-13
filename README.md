@@ -41,7 +41,7 @@
 <br/>
 
 <div align=center>
-  <div align=right>
+  <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=limjh0513&show_icons=true&count_private=true" alt="limjh0513's GitHub stats" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjh0513&layout=compact" alt="Top Langs"/>
   </div>
