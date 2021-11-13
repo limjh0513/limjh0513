@@ -1,42 +1,18 @@
 ### Hi there 👋
 
-[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/profile.php?id=100016279240376)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=pink&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/ljh_04_5_13/)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimjh0513&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align=center>
 
 # Tech SKILL👨‍💻
 
-### 잘 사용할 수 있어요✌
+### Android Development
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-
-<br/>
-<br/>
-
-### 조금 부족하지만 사용 할 수 있어요👍
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-
-<br/>
-<br/>
-
-### 공부하고 있어요💻
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 </div>
 
@@ -65,26 +41,14 @@
 <br/>
 
 <div align=center>
-
-![limjh0513's GitHub stats](https://github-readme-stats.vercel.app/api?username=limjh0513&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjh0513&layout=compact)
+  <div align=right>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=limjh0513&show_icons=true&count_private=true" alt="limjh0513's GitHub stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjh0513&layout=compact" alt="Top Langs"/>
+  </div>
+  
+<br/>
+<br/>
 
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=limjh0513&)
 
 </div>
-
-<!--
-**limjh0513/limjh0513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
